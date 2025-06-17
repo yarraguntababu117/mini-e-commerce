@@ -2,7 +2,7 @@
 
 A modern, responsive e-commerce website built with HTML, CSS, and JavaScript. Features product listings, shopping cart functionality, and smooth animations.
 
-![E-Commerce Screenshot](https://via.placeholder.com/800x500?text=ShopEasy+Screenshot) *(Replace with actual screenshot)*
+![E-Commerce Screenshot](https://via.placeholder.com/800x500?text=ShopEasy+Screenshot) 
 
 ## ✨ Features
 
@@ -15,7 +15,7 @@ A modern, responsive e-commerce website built with HTML, CSS, and JavaScript. Fe
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://yarraguntababu117.github.io/mini-e-commerce/) *(After enabling GitHub Pages)*
+[View Live Demo](https://yarraguntababu117.github.io/mini-e-commerce/) 
 
 ## 🛠️ Technologies Used
 
